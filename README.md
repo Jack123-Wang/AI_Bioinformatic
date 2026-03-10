@@ -2,4 +2,4 @@
 Agent skill for Bioinformatic 
 
 Skill1: geo-search
-输入关键信息：GEO等公共数据库 AI四轮web_search，最后汇总整理成Excel表格
+输入想要检索的信息（如成人GBM的单细胞测序数据、队列表达数据RNAseq/基因芯片）， AI agent会在GEO等公共数据库 AI四轮web_search，并剔除不符合需求的，最后汇总整理成Excel表格
